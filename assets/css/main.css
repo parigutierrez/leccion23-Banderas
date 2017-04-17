@@ -1,32 +1,28 @@
 .uno {
-  display: block;
+  display: inline;
   background-color: yellow;
-  padding-left: 10px;
-  padding-top: 15px;
+  padding: 10px;
   height: 80px;
   width: 250px;
-  margin: 20px;
-  align:
+  margin: 10px;
+
 }
 .dos {
-  display: block;
+  display: inline;
   background-color: #FF0040;
-  border: 1px solid black;
-  padding-left: 10px;
-  padding-top: 15px;
+  padding: 10px;
   height: 80px;
-  width: 250px;
-  margin: 20px;
+  width: 150px;
+  margin: 10px;
 
 }
 .tres {
-  display: block;
+  display: inline;
   background-color: yellow;
-  padding-left: 10px;
-  padding-top: 15px;
+  padding: 10px;
   height: 80px;
   width: 250px;
-  margin: 20px;
+  margin: 10px;
 }
 .text-uppercase {
   text-transform: uppercase;
