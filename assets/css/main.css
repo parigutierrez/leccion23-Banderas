@@ -1,0 +1,25 @@
+.uno {
+  display: block;
+  background-color: yellow;
+  padding-left: 10px;
+  padding-top: 15px;
+  height: 80px;
+}
+.dos {
+  display: block;
+  background-color: #FF0040;
+  border: 1px solid black;
+  padding-left: 10px;
+  padding-top: 15px;
+  height: 80px;
+}
+.tres {
+  display: block;
+  background-color: yellow;
+  padding-left: 10px;
+  padding-top: 15px;
+  height: 80px;
+}
+.text-uppercase {
+  text-transform: uppercase;
+}
