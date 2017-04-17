@@ -4,6 +4,9 @@
   padding-left: 10px;
   padding-top: 15px;
   height: 80px;
+  width: 250px;
+  margin: 20px;
+  align:
 }
 .dos {
   display: block;
@@ -12,6 +15,9 @@
   padding-left: 10px;
   padding-top: 15px;
   height: 80px;
+  width: 250px;
+  margin: 20px;
+
 }
 .tres {
   display: block;
@@ -19,7 +25,15 @@
   padding-left: 10px;
   padding-top: 15px;
   height: 80px;
+  width: 250px;
+  margin: 20px;
 }
 .text-uppercase {
   text-transform: uppercase;
+}
+
+#contenedor{
+  position: relative;
+  top:100px;
+  left:38%;
 }
